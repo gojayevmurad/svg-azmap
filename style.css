@@ -1,0 +1,12 @@
+.box {
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    border: 1px solid #555;
+    padding: 20px 30px;
+    background-color: #fff;
+}
+
+.box.hide{
+    display: none;
+}
